@@ -1,0 +1,10 @@
+numpy
+scipy
+supervenn
+pandas
+sklearn
+matplotlib
+matplotlib-venn
+sympy
+scipy-optimize
+seaborn
