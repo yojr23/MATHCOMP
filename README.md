@@ -1,5 +1,5 @@
-# MATHCOMP - Statistics & Machine Learning Projects  
-**Python-based projects** demonstrating expertise in data analysis, regression modeling, and numerical methods.  
+# MATHCOMP - Statistics & Machine Learning Excercises  
+**Python-based excercises** demonstrating expertise in data analysis, regression modeling, and numerical methods.  
 
 ## 🛠️ **Core Skills & Tools**  
 
@@ -28,6 +28,3 @@
   - `interpolation_lagrange.ipynb`: Numerical interpolation techniques.  
   - `matrix_confusion.pdf`: Classification metrics demo.  
 
-## 🎯 **Why This Matters for Recruiters**  
-- **Applied Knowledge**: From theory (algebra, numerical methods) to real-world datasets.  
-- **Versatility**: Mix of statistics, ML, and low-level math (e.g., rounding error analysis). 
